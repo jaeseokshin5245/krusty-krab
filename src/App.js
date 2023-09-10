@@ -1,14 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
+import { BrowserView, MobileView } from 'react-device-detect'
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          This is a web page of The Krusty Krab
-        </p>
-      </header>
+      <BrowserView>
+        데스크톱브라우져!
+      </BrowserView>
+      <MobileView>
+        모바일 브라우져!
+      </MobileView>
+      
     </div>
   );
 }
