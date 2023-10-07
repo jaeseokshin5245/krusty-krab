@@ -6,16 +6,30 @@
 
 ## 🧾 프로젝트 소개 / Project Description
  HHH를 참고하고 FFF, GGG를 사용해 CCC DDD하기 위한 AAA BBB
+
+ 
  기존의 III는 JJJ에 의한 KKK 문제가 있었으나 LLL의 MMM을 이용해서 NNN 방식으로 해결함
+
+ 
  이로 OOO에 대한 PPP의 해결이 가능해졌고 차후 QQQ나 RRR에 대해 도움을 줄 것으로 생각함
+
+ 
  다만, XXX의 YYY적 문제인 ZZZ로 인해 ABC, DEF 등의 문제가 발생할 수 있음
+
+ 
  기본적으로, LLL의 MMM을 이용해 SSS를 거쳐 TTT가 되어 PPP가 UUU가 되는 NNN 방식
 
  This is a AAA BBB to CCC DDD EEE by FFF GGG refered HHH
- Previously, III was occuring KKK problem by JJJ. But, I(We) solved this problem as NNN
- by using MMM of LLL. 
+
+ 
+ Previously, III was occuring KKK problem by JJJ. But, I(We) solved this problem as NNN by using MMM of LLL. 
+ 
  From this, solving PPP in OOO is now possible and can be helped with QQQ or RRR·
+
+ 
  However, this method can cause ABC or DEF problems from ZZZ of XXX due to YYYtical defect.
+
+ 
  Basically, This is NNN with using MMM of LLL through SSS become TTT with PPP become UUU
 
 
