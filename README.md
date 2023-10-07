@@ -2,6 +2,7 @@
 # 프로젝트 이름 / Project Title
  ---
  AAA를 이용한 BBB
+ 
  This is a AAA for BBB
 
 ## 프로젝트 소개 / Project Description
@@ -27,7 +28,9 @@
 ### 맴버 구성 / Author
 ---
  aaa : UI/UX 개발 / aaa : Developed UI/UX
+ 
  ccc : 서버 구축 및 관리 / aaa : Develop & Managed server
+ 
  eee : 자료 수집 및 전처리 / eee : Data collect & preprocessing
 
 ### 개발 환경 / Built with
@@ -37,16 +40,20 @@
 
 #### back-end
  ccc : 서버로 사용 / Used as Sever
+ 
  ddd : 서버 관리 프로그램으로 사용 / Used as Sever management system
 
 #### AI model
  ggg : 
+ 
  hhh : 
 
 ### 버전별 업데이트 / Versioning
 ---
 0.1.0 : 최초 업데이트 / Initial Update
+
 0.1.1 : AAA 기능 추가 및 BBB에서의 충돌 버그 수정 / Added AAA function & fixed Collision in BBB
+
 0.1.2 : CCC에서의 멈춤 버그 수정 / Fixed failing in CCC
 
 ## 프로젝트 설치 /  Installation
@@ -54,7 +61,9 @@
 ### 필요 조건 및 환경 / Prerequisites & Enviornment
 ---
 aaa : v0.0.1
+
 bbb : v12.1.2
+
 ccc : v10.7.1
 
 ### 설치 / Installing
@@ -68,6 +77,7 @@ ccc : v10.7.1
 
 #### 설치 시 유의 사항 / Note during Installing
 화면에서 완료 창이 나오기 전에는 브라우저를 끄지 마시오!
+
 Do NOT turn off the brower until display "Done"!
 
 ## 프로젝트 실행 / Project Execution
@@ -95,19 +105,25 @@ This is function 2
 ---
 #### 테스트 실행 환경 / Test Execution Enviornment
 aaa : v0.0.1
+
 bbb : v12.1.2
+
 ccc : v10.7.1
 
 #### (하이퍼) 파라미터 설정 / (Hyper) Parameter Setting
 Epoch : 50
+
 Learning Rate : 3e-5
+
 Gradient : 2e-3
 
 ### 테스트 평가 지표 / Index of test Evaluation 
 ---
 #### 정확도 / Accuracy
 Train : 89.1 %
+
 Validation : 88.5%
+
 Test : 88.8 %
 
 #### F1 score
