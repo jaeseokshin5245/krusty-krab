@@ -1,11 +1,10 @@
 
-# 프로젝트 이름 / Project Title
- ---
+# 📛 프로젝트 이름 / Project Title
  AAA를 이용한 BBB
  
  This is a AAA for BBB
 
-## 프로젝트 소개 / Project Description
+## 🧾 프로젝트 소개 / Project Description
 ---
  HHH를 참고하고 FFF, GGG를 사용해 CCC DDD하기 위한 AAA BBB
  기존의 III는 JJJ에 의한 KKK 문제가 있었으나 LLL의 MMM을 이용해서 NNN 방식으로 해결함
@@ -21,11 +20,11 @@
  Basically, This is NNN with using MMM of LLL through SSS become TTT with PPP become UUU
 
 
-### 개발 기간 / Develop Period
+### ⏲️ 개발 기간 / Develop Period
 ---
  1970-01-01 ~ 1970-04-01 (약 3개월 / nearly 3 months)
 
-### 맴버 구성 / Author
+### 🧑‍🤝‍🧑 맴버 구성 / Author
 ---
  aaa : UI/UX 개발 / aaa : Developed UI/UX
  
@@ -33,7 +32,7 @@
  
  eee : 자료 수집 및 전처리 / eee : Data collect & preprocessing
 
-### 개발 환경 / Built with
+### 🖥️ 개발 환경 / Built with
 ---
 #### front-end
  aaa : 프론트 UI 구조 / Used as front UI structure
@@ -48,7 +47,7 @@
  
  hhh : 
 
-### 버전별 업데이트 / Versioning
+### 📤 버전별 업데이트 / Versioning
 ---
 0.1.0 : 최초 업데이트 / Initial Update
 
@@ -58,9 +57,9 @@
 
 0.1.2 : CCC에서의 멈춤 버그 수정 / Fixed failing in CCC
 
-## 프로젝트 설치 /  Installation
+## 🔌 프로젝트 설치 /  Installation
 ---
-### 필요 조건 및 환경 / Prerequisites & Enviornment
+### 🏗️ 필요 조건 및 환경 / Prerequisites & Enviornment
 ---
 aaa : v0.0.1
 
@@ -70,7 +69,7 @@ bbb : v12.1.2
 
 ccc : v10.7.1
 
-### 설치 / Installing
+### 🖥️ 설치 / Installing
 ---
 1. aaaa
 2. bbbb
@@ -79,14 +78,14 @@ ccc : v10.7.1
 3-2. ccccc
 4. ddddd
 
-#### 설치 시 유의 사항 / Note during Installing
+#### ⚠️ 설치 시 유의 사항 / Note during Installing
 화면에서 완료 창이 나오기 전에는 브라우저를 끄지 마시오!
 
 Do NOT turn off the brower until display "Done"!
 
-## 프로젝트 실행 / Project Execution
+## 🏁 프로젝트 실행 / Project Execution
 ---
-### 실행 시작 / Start Execution
+### 📣 실행 시작 / Start Execution
 ---
 1. aaaa
 2. bbbb
@@ -95,7 +94,7 @@ Do NOT turn off the brower until display "Done"!
 3-2. ccccc
 4. ddddd
 
-### 프로젝트 기능 / Function of Project
+### 🔍 프로젝트 기능 / Function of Project
 ---
 #### Function 1
 This is function 1
@@ -103,18 +102,18 @@ This is function 1
 #### Function 2
 This is function 2
 
-## 테스트 과정 및 결과 / Running Test & Result
+## 📝 테스트 과정 및 결과 / Running Test & Result
 ---
-### 테스트 환경 / Test Enviornment
+### 🏕️ 테스트 환경 / Test Enviornment
 ---
-#### 테스트 실행 환경 / Test Execution Enviornment
+#### ⛰️ 테스트 실행 환경 / Test Execution Enviornment
 aaa : v0.0.1
 
 bbb : v12.1.2
 
 ccc : v10.7.1
 
-#### (하이퍼) 파라미터 설정 / (Hyper) Parameter Setting
+#### 📌 (하이퍼) 파라미터 설정 / (Hyper) Parameter Setting
 Epoch : 50
 
 
@@ -123,7 +122,7 @@ Learning Rate : 3e-5
 
 Gradient : 2e-3
 
-### 테스트 평가 지표 / Index of test Evaluation 
+### 📐 테스트 평가 지표 / Index of test Evaluation 
 ---
 #### 정확도 / Accuracy
 Train : 89.1 %
