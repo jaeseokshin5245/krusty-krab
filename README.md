@@ -5,7 +5,6 @@
  This is a AAA for BBB
 
 ## 🧾 프로젝트 소개 / Project Description
----
  HHH를 참고하고 FFF, GGG를 사용해 CCC DDD하기 위한 AAA BBB
  기존의 III는 JJJ에 의한 KKK 문제가 있었으나 LLL의 MMM을 이용해서 NNN 방식으로 해결함
  이로 OOO에 대한 PPP의 해결이 가능해졌고 차후 QQQ나 RRR에 대해 도움을 줄 것으로 생각함
@@ -58,7 +57,6 @@
 0.1.2 : CCC에서의 멈춤 버그 수정 / Fixed failing in CCC
 
 ## 🔌 프로젝트 설치 /  Installation
----
 ### 🏗️ 필요 조건 및 환경 / Prerequisites & Enviornment
 ---
 aaa : v0.0.1
@@ -84,7 +82,6 @@ ccc : v10.7.1
 Do NOT turn off the brower until display "Done"!
 
 ## 🏁 프로젝트 실행 / Project Execution
----
 ### 📣 실행 시작 / Start Execution
 ---
 1. aaaa
@@ -103,7 +100,6 @@ This is function 1
 This is function 2
 
 ## 📝 테스트 과정 및 결과 / Running Test & Result
----
 ### 🏕️ 테스트 환경 / Test Enviornment
 ---
 #### ⛰️ 테스트 실행 환경 / Test Execution Enviornment
@@ -137,11 +133,9 @@ Test : 88.8 %
 0.7
 
 ## 라이센스 / License
----
 License from AAA
 
 ## 감사 인사 / Acknowledgment
----
 Thanks for AAA, BBB, CCC
 
 
