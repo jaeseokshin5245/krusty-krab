@@ -52,7 +52,9 @@
 ---
 0.1.0 : 최초 업데이트 / Initial Update
 
+
 0.1.1 : AAA 기능 추가 및 BBB에서의 충돌 버그 수정 / Added AAA function & fixed Collision in BBB
+
 
 0.1.2 : CCC에서의 멈춤 버그 수정 / Fixed failing in CCC
 
@@ -62,7 +64,9 @@
 ---
 aaa : v0.0.1
 
+
 bbb : v12.1.2
+
 
 ccc : v10.7.1
 
@@ -113,7 +117,9 @@ ccc : v10.7.1
 #### (하이퍼) 파라미터 설정 / (Hyper) Parameter Setting
 Epoch : 50
 
+
 Learning Rate : 3e-5
+
 
 Gradient : 2e-3
 
@@ -122,7 +128,9 @@ Gradient : 2e-3
 #### 정확도 / Accuracy
 Train : 89.1 %
 
+
 Validation : 88.5%
+
 
 Test : 88.8 %
 
